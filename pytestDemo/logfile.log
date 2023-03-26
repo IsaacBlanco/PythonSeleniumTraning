@@ -1,0 +1,44 @@
+2023-03-24 12:53:12,524 : INFO : test_editProfile : <class 'list'>
+2023-03-24 12:53:12,524 : INFO : test_editProfile : ['Valac', 'Shiro', 'SValac@shiro.com']
+2023-03-24 12:53:12,524 : INFO : test_editProfile : SValac@shiro.com
+2023-03-24 12:53:12,532 : INFO : test_crossBrowser : Chrome
+2023-03-24 12:53:12,540 : INFO : test_crossBrowser : Firefox
+2023-03-24 12:53:12,540 : INFO : test_crossBrowser : Firefox
+2023-03-24 12:53:12,548 : INFO : test_crossBrowser : Edge
+2023-03-24 12:53:12,548 : INFO : test_crossBrowser : Edge
+2023-03-24 12:53:12,548 : INFO : test_crossBrowser : Edge
+2023-03-24 12:53:12,556 : INFO : test_crossBrowserMultiple : ('Chrome', 'Shiro', 'pws123')
+2023-03-24 12:53:12,564 : INFO : test_crossBrowserMultiple : ('Firefox', 'Valac', '123pwd')
+2023-03-24 12:53:12,564 : INFO : test_crossBrowserMultiple : ('Firefox', 'Valac', '123pwd')
+2023-03-24 12:53:12,572 : INFO : test_crossBrowserMultiple : ('Edge', 'Elfo', 'Dongo')
+2023-03-24 12:53:12,572 : INFO : test_crossBrowserMultiple : ('Edge', 'Elfo', 'Dongo')
+2023-03-24 12:53:12,572 : INFO : test_crossBrowserMultiple : ('Edge', 'Elfo', 'Dongo')
+2023-03-24 12:59:21,947 : INFO : test_editProfile : <class 'list'>
+2023-03-24 12:59:21,947 : INFO : test_editProfile : ['Valac', 'Shiro', 'SValac@shiro.com']
+2023-03-24 12:59:21,948 : INFO : test_editProfile : SValac@shiro.com
+2023-03-24 12:59:21,956 : INFO : test_crossBrowser : Chrome
+2023-03-24 12:59:21,963 : INFO : test_crossBrowser : Firefox
+2023-03-24 12:59:21,963 : INFO : test_crossBrowser : Firefox
+2023-03-24 12:59:21,971 : INFO : test_crossBrowser : Edge
+2023-03-24 12:59:21,971 : INFO : test_crossBrowser : Edge
+2023-03-24 12:59:21,971 : INFO : test_crossBrowser : Edge
+2023-03-24 12:59:21,980 : INFO : test_crossBrowserMultiple : ('Chrome', 'Shiro', 'pws123')
+2023-03-24 12:59:21,989 : INFO : test_crossBrowserMultiple : ('Firefox', 'Valac', '123pwd')
+2023-03-24 12:59:21,989 : INFO : test_crossBrowserMultiple : ('Firefox', 'Valac', '123pwd')
+2023-03-24 12:59:21,996 : INFO : test_crossBrowserMultiple : ('Edge', 'Elfo', 'Dongo')
+2023-03-24 12:59:21,996 : INFO : test_crossBrowserMultiple : ('Edge', 'Elfo', 'Dongo')
+2023-03-24 12:59:21,996 : INFO : test_crossBrowserMultiple : ('Edge', 'Elfo', 'Dongo')
+2023-03-24 13:04:53,289 : INFO : test_editProfile : <class 'list'>
+2023-03-24 13:04:53,289 : INFO : test_editProfile : ['Valac', 'Shiro', 'SValac@shiro.com']
+2023-03-24 13:04:53,300 : INFO : test_crossBrowser : Chrome
+2023-03-24 13:04:53,307 : INFO : test_crossBrowser : Firefox
+2023-03-24 13:04:53,307 : INFO : test_crossBrowser : Firefox
+2023-03-24 13:04:53,315 : INFO : test_crossBrowser : Edge
+2023-03-24 13:04:53,315 : INFO : test_crossBrowser : Edge
+2023-03-24 13:04:53,315 : INFO : test_crossBrowser : Edge
+2023-03-24 13:04:53,323 : INFO : test_crossBrowserMultiple : ('Chrome', 'Shiro', 'pws123')
+2023-03-24 13:04:53,330 : INFO : test_crossBrowserMultiple : ('Firefox', 'Valac', '123pwd')
+2023-03-24 13:04:53,330 : INFO : test_crossBrowserMultiple : ('Firefox', 'Valac', '123pwd')
+2023-03-24 13:04:53,338 : INFO : test_crossBrowserMultiple : ('Edge', 'Elfo', 'Dongo')
+2023-03-24 13:04:53,338 : INFO : test_crossBrowserMultiple : ('Edge', 'Elfo', 'Dongo')
+2023-03-24 13:04:53,338 : INFO : test_crossBrowserMultiple : ('Edge', 'Elfo', 'Dongo')
